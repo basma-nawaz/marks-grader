@@ -1,0 +1,10 @@
+streamlit
+pandas
+PyPDF2
+python-docx
+Pillow
+pdfplumber
+plotly
+openpyxl
+google-cloud-vision
+requests
